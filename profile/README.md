@@ -1,6 +1,6 @@
 <h1>Devfum</h1>
 <p>Welcome to Devfum, a software development service based startup that specializes in developing web and android applications. Our team of passionate full-stack developers have expertise in a wide range of technologies and frameworks, making us a one-stop-shop for all your development needs.</p>
-<img src="./DEVFUM PNGFILE-02.png" width="100%">
+<img src="https://github.com/Development-Firm/.github/blob/main/profile/DEVFUM%20PNGFILE-02.png" width="100%">
 <h2>About Us</h2>
 <p>At Devfum, our mission is to provide our clients with high-quality, cost-effective and innovative software solutions. We are a team of experienced developers who are passionate about creating software that meets the specific needs of our clients. With a focus on customer satisfaction, we work closely with our clients to understand their requirements and deliver software that exceeds their expectations.</p>
 <p>We have a team of expert developers who have a wide range of experience in various industries and technologies, making us a reliable partner for your software development projects. Our developers are constantly learning new technologies and best practices to stay ahead of the curve and deliver the best solutions for our clients.</p>
