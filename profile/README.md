@@ -47,7 +47,7 @@
 <ul>
   <li>Website: <a href="https://devfum.com/">https://devfum.com/</a></li>
   <li>Email: <a href="mailto:contact@devfum.com">contact@devfum.com</a></li>
-  <li>Phone: +1 (555) 555-5555</li>
+  <li>Phone: +92 (316) 424-6008</li>
   <li>Twitter: <a href="https://twitter.com/devfum">@devfum</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/company/devfum/">Devfum</a></li>
 </ul>
